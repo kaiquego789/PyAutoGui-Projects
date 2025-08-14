@@ -1,6 +1,15 @@
-Olá Devs,
+Olá, Devs!
 
-Aqui está uma amostra de algumas automomações que eu fiz no sistema da empresa que trabalho, usando o PyAutoGui, o sistema da empresa é terceirizado e eles não disponibilizam uma API para trabalhar o banco de dados,
-então resolvi fazer a automação de algumas das responsabilidades de dentro do sistema que vão desde a emissão de NF de descarte e de venda, cadastro de produtos e kits, montagem de relatórios entre outros.
+Gostaria de compartilhar com vocês uma amostra de algumas automações que desenvolvi no sistema da empresa onde trabalho, utilizando o PyAutoGUI. Como o sistema é terceirizado e não oferece uma API para acesso ao banco de dados, encontrei na automação de interface uma alternativa viável para otimizar algumas tarefas do dia a dia.
 
-Estou em processo de aprendizado da linguaguem Python, então qualquer dica que tiverem será bem vinda.
+Entre as automações que implementei estão:
+
+Emissão de Notas Fiscais (de descarte e de venda)
+
+Cadastro de produtos e kits
+
+Geração de relatórios
+
+Entre outras rotinas operacionais
+
+Estou em processo de aprendizado da linguagem Python, então toda dica ou sugestão será muito bem-vinda!
